@@ -24,3 +24,5 @@ https://t.me/m8whereru - Telegram
 ## 📈 GitHub Stats 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasheroriginal&theme=algolia" alt="Github stats" />
+
+![More stats](https://github-readme-stats.vercel.app/api?username=kashfornoriginal)
