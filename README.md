@@ -25,4 +25,6 @@ https://t.me/m8whereru - Telegram
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasheroriginal&theme=algolia" alt="Github stats" />
 
-![More stats](https://github-readme-stats.vercel.app/api?username=kashfornoriginal alt="Github stats")
+<img src="https://github-readme-stats.vercel.app/api?username=kashfornoriginal&theme=algolia" alt="MoreStarts" />
+
+![More stats](https://github-readme-stats.vercel.app/api?username=kashfornoriginal)
