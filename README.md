@@ -9,7 +9,7 @@ I'm a third year student of MIREA.
 Unity Junior Developer.
 </h3> 
 <h3 align="center">
-I have been working in MIREA since the middle of my education.
+I have been working in MIREA since the middle of first course.
 </h3> 
 
 
