@@ -1,8 +1,8 @@
-<h2 align="center">
+<h2 align="left">
 Hello, my name is Ilia
 </h2> 
 
-<h3 align="center">
+<h3 align="left">
 I'm Unity Developer
 </h3> 
 
@@ -13,7 +13,7 @@ https://t.me/m8whereru - Telegram
 
 ## 🕹 Current Project:
 
-<h3 align="center">
+<h3 align="left">
 <a 
 href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone.svg" alt="wakatime">
 </a>
@@ -21,7 +21,7 @@ href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="h
 
 # 💻 Tech Stack:
 
-<div align="center">
+<div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
