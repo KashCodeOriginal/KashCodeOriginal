@@ -19,8 +19,6 @@ href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="h
 </a>
 </h3> 
 
-<a href="https://wakatime.com/badge/user/7bd056a5-2aa1-4200-a81a-50b20a6f8776/project/ad5d99f7-4b8e-4be0-bb5a-64d7fb1a05ab"><img src="https://wakatime.com/badge/user/7bd056a5-2aa1-4200-a81a-50b20a6f8776/project/ad5d99f7-4b8e-4be0-bb5a-64d7fb1a05ab.svg" alt="wakatime"></a>
-
 # 💻 Tech Stack:
 
 <div align="center">
