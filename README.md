@@ -11,6 +11,16 @@ I'm Unity Developer
 https://t.me/m8whereru - Telegram
 </h3> 
 
+<h3 align="center">
+Current Project:
+
+<a 
+href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone.svg" alt="wakatime">
+</a>
+
+</h3> 
+
+
 # 💻 Tech Stack:
 
 <div align="center">
