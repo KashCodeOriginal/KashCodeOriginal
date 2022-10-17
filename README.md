@@ -17,7 +17,6 @@ https://t.me/m8whereru - Telegram
 <a 
 href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone.svg" alt="wakatime">
 </a>
-	<figure><embed src="https://wakatime.com/share/@kasheroriginal/6b4b91a5-c183-4e62-8078-ee4e5086ab42.svg"></embed></figure>
 </h3> 
 
 # 💻 Tech Stack:
