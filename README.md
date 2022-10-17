@@ -31,8 +31,10 @@ href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="h
 </div>
 
 
+## 📈 GitHub Stats 
+
 <div align="center">
-	## 📈 GitHub Stats 
+	
 
 ![](https://github-readme-stats.vercel.app/api?username=kashfornoriginal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kashfornoriginal&theme=dark&hide_border=false)<br/>
