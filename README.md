@@ -41,6 +41,6 @@ href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="h
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashfornoriginal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hydromoll&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kashfornoriginal&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
