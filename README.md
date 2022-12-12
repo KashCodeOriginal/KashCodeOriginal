@@ -11,11 +11,11 @@ I'm Unity Developer
 https://t.me/m8whereru - Telegram
 </h3> 
 
-## 🕹 Current Project: UnderwaterWorld
+## 🕹 Current Project: SwordsAndEnemies
 
 <h3 align="center">
 <a 
-href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone.svg" alt="wakatime">
+href="https://wakatime.com/badge/github/Kashfornoriginal/SporeClone"><img src="https://wakatime.com/badge/github/Kashfornoriginal/ArchitecturePractice.svg" alt="wakatime">
 </a>
 </h3> 
 
