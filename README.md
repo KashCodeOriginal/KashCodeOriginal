@@ -15,7 +15,7 @@ https://t.me/m8whereru - Telegram
 
 <h3 align="center">
 <a 
-<a href="https://wakatime.com/badge/user/7bd056a5-2aa1-4200-a81a-50b20a6f8776/project/307654de-bd40-47f6-9f2e-2a366fae6d78"><img src="https://wakatime.com/badge/user/7bd056a5-2aa1-4200-a81a-50b20a6f8776/project/307654de-bd40-47f6-9f2e-2a366fae6d78.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/user/7bd056a5-2aa1-4200-a81a-50b20a6f8776/project/a194c440-05a3-4980-8808-1db67b2eda1d"><img src="https://wakatime.com/badge/user/7bd056a5-2aa1-4200-a81a-50b20a6f8776/project/a194c440-05a3-4980-8808-1db67b2eda1d.svg" alt="wakatime"></a>
 </a>
 </h3> 
 
