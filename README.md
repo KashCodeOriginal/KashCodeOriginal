@@ -28,9 +28,9 @@ https://t.me/m8whereru - Telegram
 <div align="center">
 	
 
-![](https://github-readme-stats.vercel.app/api?username=kashfornoriginal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kashfornoriginal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashfornoriginal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KashCodeOriginal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KashCodeOriginal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashCodeOriginal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kashfornoriginal&icon=0&color=0)](https://visitcount.itsvg.in)
