@@ -33,6 +33,6 @@ https://t.me/m8whereru - Telegram
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashCodeOriginal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kashfornoriginal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KashCodeOriginal&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
